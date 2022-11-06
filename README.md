@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a rel="me" href="https://ruhr.social/@besenwagen">Mastodon</a>
+<a rel="nofollow me" href="https://ruhr.social/@besenwagen">Mastodon</a>
 
 <!--
 **besenwagen/besenwagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
